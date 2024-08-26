@@ -1,0 +1,2 @@
+client_3d(true);
+if keyboard_check(vk_tab) {draw_text(10,10,"N to change brick#B to change brush#Enter to place brick#Numpad arrows to move brick horizontally#Up and down key to move brick up vertically");}

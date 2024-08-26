@@ -1,0 +1,29 @@
+Player Controls:
+Space - Jump
+WASD - Movement
+P - Restart Game (/change team)
+I - Zoom in
+O - Zoom out (soon making scroll wheel)
+
+Build Game:
+B - Change brush (paint color)
+N - Change brick (size)
+R - Rotate brick
+T - Tilt brick
+Numpad Arrows - Move brick horizontally
+Up/Down Arrows - Move brick vertically
+Enter - Place brick
+Click - Move brick relative to view
+Tab - Ingame help
+
+U.S.S. vs USSR:
+Click - Use tool
+you can create teams anyways doe  - jose
+AYO no more cheaters of shit please - alexander dunn (spacebuilder)
+narfucka LOL :P - narwhaleLOLpromaster
+read hitman book kilagag LOL XD - hitmanstoryslover
+XD play this - eduardo rubio
+tha server you can do custom or extric servers one - extric runtime CEO
+arquitecture = all
+arquitecture src = jpina.src.online.server/234242
+alk yes or no = yes
